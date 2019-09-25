@@ -5,14 +5,6 @@ Created on Fri Sep 20 01:30:25 2019
 @author: degamasandoval
 """
 
-#Cuales son variables de instancia y cuales variables solo temporales en un método
-#Para que sirve el 3er método en su algoritmo
-#Como funciona score vs. moves
-#Cuando usar self y cuando no
-#Borrar prints
-#borrar inputs start board=
-
-
 import math
 
 # =============================================================================
